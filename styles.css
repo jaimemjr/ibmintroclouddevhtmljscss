@@ -1,0 +1,26 @@
+.maindiv {
+   -webkit-box-shadow: 5px 5px 11px 16px rgba(0,0,0,0.33); 
+  box-shadow: 5px 5px 11px 16px rgba(0,0,0,0.33);
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 500px;
+  margin-top: 100px;
+  background-color: white;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: orange;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+section h1 {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+function compute()
+{
+    p = document.getElementById("principal").value;
+    
+}
